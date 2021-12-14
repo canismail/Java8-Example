@@ -14,11 +14,11 @@ public class DefaultAndStaticMethods {
 		}
 
 		static void staticMethod1() {
-			System.out.println("Hello from static Metho-1");
+			System.out.println("Hello from static Method-1");
 		}
 
 		static void staticMetho2() {
-			System.out.println("Hello from static Metho-2");
+			System.out.println("Hello from static Method-2");
 		}
 
 	}
